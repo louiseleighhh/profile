@@ -106,10 +106,10 @@ a:hover span {
 
 .big-image {
   width: auto;
-  height: 45px;
+  height: 90px;
   position: absolute;
   bottom: 320px;
-  left: 110px;
+  left: 130px;
 }
 
 .border {
@@ -138,10 +138,10 @@ a:hover span {
   }
   .big-image {
     width: auto;
-    height: 110px;
+    height: 70px;
     position: absolute;
     bottom: 320px;
-    left: 110px;
+    left: 150px;
   }
 }
 
@@ -152,10 +152,10 @@ a:hover span {
   }
   .big-image {
     width: auto;
-    height: 110px;
+    height: 40px;
     position: absolute;
-    bottom: 450px;
-    left: 40px;
+    bottom: 210px;
+    left: 69px;
   }
   h2{
     font-size: 1em;
@@ -167,7 +167,7 @@ a:hover span {
     font-size: .7em;
   }
   p {
-    font-size: .5em;
+    font-size: .49em;
   }
   #profile-picture {
   width: 100px;
